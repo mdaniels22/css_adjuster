@@ -1,0 +1,17 @@
+.shadow {
+  max-width: 850px;
+  max-height: 550px;
+
+  box-shadow: 5px 5px 7px cadetblue;
+  margin-bottom: 40px;
+}
+
+h1 {
+  text-align: center;
+}
+
+button {
+  position: relative;
+  margin: 0;
+  left: 50%;
+}
